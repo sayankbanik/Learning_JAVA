@@ -7,7 +7,6 @@ public class PrimeNumber {
         int num = sc.nextInt();
         int flag = 0; // flag is helping to mark the decision
         // boolean flag = false;
-        
         // 0 and 1 are not Prime Numbers
         // change flag to 1 for Non-prime numbers
         if(num == 0 || num == 1)
