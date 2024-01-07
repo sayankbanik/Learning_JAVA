@@ -1,0 +1,8 @@
+//package CN_Java.week 3.Methods;
+
+public class Demo {
+    public static void main(String[] args){
+        System.out.print("Hello Methods");
+    }
+    
+}
